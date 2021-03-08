@@ -1,1 +1,1 @@
-# a-typing-practice-website-for-CS-students
+# A-typing-practice-website-for-CS-students
