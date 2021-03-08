@@ -1,0 +1,52 @@
+textarea{
+padding:16px;
+width:720px;
+height:60px;
+background:#270122;
+border:8px black solid;
+font-family:Monospace;
+font-size:16px;
+color:white;
+}
+button {
+  display: block;
+  border-radius: 4px;
+  background-color: #A299A2;
+  border: none;
+  color: #FEFDFE;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 0 auto;
+}
+#txt{
+padding:16px;
+width:720px;
+height:360px;
+overflow:auto;
+background:#270122;
+border:8px black solid;
+font-family:Serif;
+font-size:90px;
+color:white;
+margin-bottom:8px;
+}
+div{
+width:720px;
+margin:0 auto;}
+scroll{
+height:100px;
+}
+#title{
+background:black;
+color:white;
+padding:16px;
+text-align:center;
+border:8px white solid;
+}
+#stbtn{
+margin:0 auto;
+}
