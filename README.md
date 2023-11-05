@@ -1,1 +1,2 @@
-# A-typing-practice-website-for-CS-students
+# My Type Racer
+A basic single-page website for practicing type racing.
